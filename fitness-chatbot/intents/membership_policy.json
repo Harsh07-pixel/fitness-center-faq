@@ -1,0 +1,35 @@
+{
+  "id": "2712b268-e092-4ad6-bc2e-74362b1be723",
+  "name": "membership_policy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Membership Plans:\n• Basic: $29/month - Gym access only\n• Premium: $49/month - Gym + group classes\n• Elite: $79/month - All facilities + 1 free PT session\n\nTo freeze/cancel: Visit front desk or email admin@yourgym.com"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

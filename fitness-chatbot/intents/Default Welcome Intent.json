@@ -1,0 +1,39 @@
+{
+  "id": "78641fe8-66b3-470a-bebf-ae7f255df5c8",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Welcome to Fitness Center Assistant! 💪\n\nI can help with:\n• Class schedules \u0026 timings\n• Equipment how-to guides\n• Membership plans \u0026 policies\n• Personal trainer booking\n• Locker rentals\n• Guest passes\n\nWhat would you like to know?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "498f6c21-2f12-4e20-a65e-60fe22f7c49a",
+  "name": "equipment_usage",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Treadmill Instructions:\n1. Press Quick Start\n2. Use arrows to adjust speed\n3. Incline button for hills\n4. Stop button to end\n\nSafety: Always clip emergency stop clip to clothing."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

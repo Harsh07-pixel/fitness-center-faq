@@ -1,0 +1,54 @@
+[
+  {
+    "id": "48b36513-8a65-49ce-8d38-66f62b96c87d",
+    "data": [
+      {
+        "text": "What\u0027s included in basic membership?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be0669b5-d209-4953-9956-e5d149ab32c7",
+    "data": [
+      {
+        "text": "Freeze membership",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0b5fa5f-14e9-4408-8cfa-d1b42d5de826",
+    "data": [
+      {
+        "text": "Cancel my membership",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d97bd46-e96f-4ec5-8199-242f7e303945",
+    "data": [
+      {
+        "text": "How much is membership?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "9b9cf26a-0ff3-405c-90e5-ff13e27867d7",
+    "data": [
+      {
+        "text": "How to use chest press machine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea837a1a-3c7f-4621-88e8-5fcdc742722c",
+    "data": [
+      {
+        "text": "Leg press instructions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd5c6d2e-0182-41b9-97aa-21173c1c603c",
+    "data": [
+      {
+        "text": "How do I use the treadmill?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

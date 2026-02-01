@@ -1,0 +1,35 @@
+{
+  "id": "4ce41b93-cc15-4a9b-857f-307bd050c3a4",
+  "name": "personal_training",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Personal Training:\n• Rates: $60/session or $300 for 6 sessions\n• Trainers:\n  - Alex: Weight loss, cardio (Mon/Wed/Fri)\n  - Sam: Strength training, bodybuilding (Tue/Thu)\n  - Taylor: Rehabilitation, senior fitness (Daily)\n\nBook at front desk or call 555-1234."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

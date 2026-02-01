@@ -1,0 +1,54 @@
+[
+  {
+    "id": "098dc3f4-20c6-4687-8afc-7bd3c6053415",
+    "data": [
+      {
+        "text": "Who specializes in strength training?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b44cbb5-28b7-4175-8969-6992f112142b",
+    "data": [
+      {
+        "text": "How much is PT?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba703405-1c56-4753-81a7-5e382c133b0f",
+    "data": [
+      {
+        "text": "Trainer for weight loss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c01cabb4-9c0d-4f9b-8a4d-d50dfcf4b36c",
+    "data": [
+      {
+        "text": "Book a personal trainer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

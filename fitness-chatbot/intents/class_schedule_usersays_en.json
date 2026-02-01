@@ -1,0 +1,54 @@
+[
+  {
+    "id": "b713b508-49bd-4c70-a701-81d830775dd4",
+    "data": [
+      {
+        "text": "Do you have Zumba classes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8d5cc0c-9e1d-43f2-8683-852a026b2395",
+    "data": [
+      {
+        "text": "Spin class timings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b17b3340-1928-4caf-9c9d-80bda90418bb",
+    "data": [
+      {
+        "text": "What\u0027s the class schedule?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e5e665a-9342-4a36-a14d-2e68c9b22a36",
+    "data": [
+      {
+        "text": "When is yoga class?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

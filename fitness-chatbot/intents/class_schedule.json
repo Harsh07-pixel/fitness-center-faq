@@ -1,0 +1,35 @@
+{
+  "id": "aff836e7-b792-4bfc-b216-d731ff8426f1",
+  "name": "class_schedule",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our group classes:\n• Yoga: Monday/Wednesday 8 AM \u0026 7 PM\n• Spin: Tuesday/Thursday 6 AM \u0026 6 PM\n• Zumba: Saturday 10 AM\n• Pilates: Friday 5 PM\n\nFull schedule: [yourwebsite.com/schedule]"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
