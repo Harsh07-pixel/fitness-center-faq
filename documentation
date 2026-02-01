@@ -1,0 +1,113 @@
+🏋️ Fitness Bot - Quick Guide
+1. Setup (5 Minutes)
+Step 1: Go to Dialogflow → Create Agent → Name: FitnessBot
+
+Step 2: Add these 6 intents:
+
+2. Intents to Copy-Paste
+① Welcome
+User says: "hi", "hello", "help"
+Bot replies:
+
+text
+Welcome to [Gym Name]! I can help with:
+• Class schedules 🕐
+• Equipment help 🏋️
+• Membership info 💳
+• Trainer booking 👨🏫
+• Locker rentals 🔐
+What do you need?
+② Class Schedule
+User says: "class times", "yoga schedule", "when is spin"
+Bot replies:
+
+text
+**Class Schedule:**
+• Yoga: Mon/Wed 8AM & 7PM
+• Spin: Tue/Thu 6AM & 6PM
+• Zumba: Sat 10AM
+Full schedule: [your-link]
+Book: Call 555-1234
+③ Equipment Help
+User says: "how to use treadmill", "leg press guide", "machine instructions"
+Bot replies:
+
+text
+**Equipment Guide:**
+1. Adjust settings first
+2. Start slow
+3. Maintain form
+4. Cool down
+Need help? Ask staff at Station 3.
+④ Membership
+User says: "pricing", "membership cost", "cancel membership"
+Bot replies:
+
+text
+**Membership Plans:**
+• Basic: $29/mo - Gym access
+• Premium: $49/mo - Gym + classes
+• Elite: $79/mo - All access
+Front desk for changes.
+⑤ Personal Training
+User says: "book trainer", "PT rates", "trainer for weight loss"
+Bot replies:
+
+text
+**Trainers Available:**
+• Alex - Weight loss (Mon/Wed)
+• Sam - Strength (Tue/Thu)
+• Taylor - Rehab (Daily)
+Rates: $60/session
+Book: Front desk or app.
+⑥ Fallback (When bot doesn't know)
+Bot replies:
+
+text
+I don't have that info yet. Please:
+1. Check our website: [site]
+2. Call front desk: 555-1234
+3. Visit in person
+Sorry for the inconvenience!
+3. Deploy to Website
+In Dialogflow:
+
+Go to Integrations
+
+Click Web Demo
+
+Copy the iframe code
+
+Paste on your website before </body>
+
+Code:
+
+html
+<iframe
+  width="350"
+  height="430"
+  src="https://console.dialogflow.com/api-client/demo/embedded/YOUR-BOT-ID">
+</iframe>
+4. Test It
+Ask:
+
+"When is yoga?"
+
+"How much is membership?"
+
+"Book a trainer"
+
+"Treadmill instructions"
+
+5. Maintenance
+Weekly:
+
+Update class times if changed
+
+Add new member questions
+
+Monthly:
+
+Export backup from Dialogflow
+
+Save to Google Drive
